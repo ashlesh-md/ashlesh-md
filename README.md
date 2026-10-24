@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Company-Snabbit-0175C2?style=for-the-badge" alt="Snabbit" />
   <img src="https://img.shields.io/badge/Location-Bangalore-13B9FD?style=for-the-badge" alt="Bangalore" />
-  <img src="https://komarev.com/ghpvc/?username=ashlesh-md&style=for-the-badge&color=02569B&label=Profile+views" alt="Profile views" />
+  <img src="https://hits.sh/github.com/ashlesh-md.svg?style=for-the-badge&label=Profile%20views&color=02569B" alt="Profile views" />
 </p>
 
 ---

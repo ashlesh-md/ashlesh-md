@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:13B9FD&height=200&section=header&text=Ashlesh%20M%20D&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Flutter%20%26%20Python&descAlignY=60&descSize=20" alt="Ashlesh M D" />
+  <img src="./assets/header.svg" width="100%" alt="Ashlesh M D" />
 </p>
 
 <p align="center">
@@ -92,5 +92,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,50:0175C2,100:02569B&height=110&section=footer" />
+  <img src="./assets/footer.svg" width="100%" alt="" />
 </p>

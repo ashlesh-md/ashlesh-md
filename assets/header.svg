@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#02569B"/>
+      <stop offset="0.5" stop-color="#0175C2"/>
+      <stop offset="1" stop-color="#13B9FD"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)" d="M0 0H1200V170C1100 200 1000 215 880 195C760 175 680 140 560 150C440 160 360 205 240 205C140 205 70 185 0 165Z"/>
+  <path fill="#ffffff" fill-opacity="0.08" d="M0 120C150 160 300 90 480 110C660 130 760 180 940 160C1060 147 1140 120 1200 110V0H0Z"/>
+  <text x="600" y="92" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff">Ashlesh M D</text>
+  <text x="600" y="134" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#E6F6FF" letter-spacing="1">Software Engineer · Flutter &amp; Python</text>
+</svg>
